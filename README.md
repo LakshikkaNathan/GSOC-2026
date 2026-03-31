@@ -1,0 +1,2 @@
+# GSOC-2026
+GSoC 2026 QMLHEP6 task — ML4Sci
