@@ -1,4 +1,4 @@
-# GSoC 2026 — QMLHEP6
+# GSoC 2026 - QMLHEP6
 
 **ML4Sci | Learning quantum representations of classical high energy physics data with contrastive learning**
 
